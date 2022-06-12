@@ -11,3 +11,6 @@ https://practice.geeksforgeeks.org/problems/addition-of-two-numbers0812/1
 
 Print GeeksForGeeks with quotes:-
 https://practice.geeksforgeeks.org/problems/ac2a004501fccf140263abb898908d25ae64c078/1
+
+Last Digit of a number:-
+https://practice.geeksforgeeks.org/problems/last-digit-of-a-number/1
