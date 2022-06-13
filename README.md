@@ -17,3 +17,6 @@ https://practice.geeksforgeeks.org/problems/last-digit-of-a-number/1
 
 Arithmetic Operators:-
 https://practice.geeksforgeeks.org/problems/arithmetic-operators-1605594922/1
+
+Sum of N Numbers:-
+https://practice.geeksforgeeks.org/problems/sum-of-n-number/1
