@@ -14,3 +14,6 @@ https://practice.geeksforgeeks.org/problems/ac2a004501fccf140263abb898908d25ae64
 
 Last Digit of a number:-
 https://practice.geeksforgeeks.org/problems/last-digit-of-a-number/1
+
+Arithmetic Operators:-
+https://practice.geeksforgeeks.org/problems/arithmetic-operators-1605594922/1
